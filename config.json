@@ -1,9 +1,9 @@
 {
 	"host_map": [
-		"wikita$.org => en.wikipedia.org",
-		"fr.wikita$.org => fr.wikipedia.org",
-		"de.wikita$.org => de.wikipedia.org",
-		"es.wikita$.org => es.wikipedia.org",
-		"it.wikita$.org => it.wikipedia.org"
+		"wikit$.org => en.wikipedia.org",
+		"fr.wikit$.org => fr.wikipedia.org",
+		"de.wikit$.org => de.wikipedia.org",
+		"es.wikit$.org => es.wikipedia.org",
+		"it.wikit$.org => it.wikipedia.org"
 	]
 }
