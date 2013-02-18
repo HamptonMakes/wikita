@@ -1,0 +1,6 @@
+{
+	"host_map": [
+		"$.wikipedia.org => www.wikipedia.org",
+		"$.wikipedia.org => wikipedia.org"
+	]
+}
