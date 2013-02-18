@@ -1,6 +1,15 @@
 .mw-body {
-	margin-top: 5em;
+	margin-top: 2em;
 }
 #mw-head {
-	height: 5em;
+	height: 2em;
+}
+#mw-panel {
+	position: absolute;
+	top: -20px !important;
+	left: 0px;
+}
+#left-navigation, #right-navigation {
+	top: 0px;
+	margin-top: 0px;
 }

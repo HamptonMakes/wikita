@@ -16,9 +16,19 @@ match($status) {
 
   with(/200/) {
     log("--> STATUS: 200")
-
-    match($path) {
-      with(/^\/$|^\/\?/) {
+    $$("body") {
+      attribute("class") {
+        %class_list = value()
+        %class_list {
+          replace(/page-([^ ]*)/) {
+            $page = $1
+            log("page name: " + $page)
+          }
+        }
+      }
+    }
+    match($page) {
+      with("Main_Page")  {
         log("--> Importing pages/home.ts in mappings.ts")
         @import pages/home.ts
       }
