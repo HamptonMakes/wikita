@@ -1,6 +1,9 @@
 {
 	"host_map": [
-		"$.wikipedia.org => www.wikipedia.org",
-		"$.wikipedia.org => wikipedia.org"
+		"wikita$.org => en.wikipedia.org",
+		"fr.wikita$.org => fr.wikipedia.org",
+		"de.wikita$.org => de.wikipedia.org",
+		"es.wikita$.org => es.wikipedia.org",
+		"it.wikita$.org => it.wikipedia.org"
 	]
 }
