@@ -3,6 +3,7 @@
 $("/html") {
   rewrite_links()
   absolutize_srcs()
+  add_canonical_tag()
 
   
 

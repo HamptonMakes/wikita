@@ -36,6 +36,10 @@ $$(".vectorTabs") {
   }
 }
 
-$$("#mw-head") {
+$$("#searchform") {
+  move_to("/html/body//div[@id='mw-panel']", "top")
+}
 
+$$("#mw-head") {
+  remove()
 }

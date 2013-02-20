@@ -1,15 +1,23 @@
 .mw-body {
-	margin-top: 2em;
-}
-#mw-head {
-	height: 2em;
+	margin-top: 0em;
 }
 #mw-panel {
 	position: absolute;
-	top: -20px !important;
-	left: 0px;
+	top: -30px !important;
+	h1 {
+		color: gray;
+		border: 0px;
+		margin-bottom: 0px;
+	}
 }
 #left-navigation, #right-navigation {
 	top: 0px;
 	margin-top: 0px;
+}
+#simpleSearch {
+	width: 170px !important;
+}
+.small_notice {
+	font-size: 0.5em;
+	font-style: italic;
 }
