@@ -1,3 +1,9 @@
+## Wikita
+
+Wikipedia for your Tablet!
+
+Go to http://wikita.org to view the live site! Additions super appreciated!
+
 ## Basics
 
 This is a Moovweb project. Moovweb is a great way to build compelling
