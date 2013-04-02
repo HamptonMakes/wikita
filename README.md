@@ -21,7 +21,7 @@ a termal and then run the following command:
 
     sudo moov server --auto-hosts
 
-Then, just browse to http://mlocal.{{DOMAIN}} and you are ready to
+Then, just browse to http://wikitmlocal.org and you are ready to
 start developing!
 
 ## Deployment
