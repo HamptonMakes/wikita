@@ -5,8 +5,6 @@ $("/html") {
   absolutize_srcs()
   add_canonical_tag()
 
-  
-
   add_assets()
 
   @import sections/header.ts
